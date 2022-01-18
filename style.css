@@ -131,11 +131,11 @@ h4{
 }
 .offer{
 	background: radial-gradient(white,yellow);
-	margin: 80px;
+	margin-top: 80px;
 	padding: 30px 0;
 }
 .col-2 .offer-img{
-	padding: 30px;
+	padding: 60px;
 }
 .brands{
 	margin: 100px auto;
